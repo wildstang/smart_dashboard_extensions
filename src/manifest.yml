@@ -1,0 +1,8 @@
+API: 0.1
+Name: WS plugins
+Description: Contains all the custom wildstang SFX plugins
+Version: 1.0.0
+Plugin ID: 1f0d1514-e5f7-441c-a57d-0ca11ef12e65
+Controls:
+-
+  Class: org.wildstang.sfxext.BBBCamera
